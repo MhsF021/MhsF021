@@ -22,16 +22,12 @@
 ### <h2 style="color: #836DFF; font-family: 'Pixelify Sans', sans-serif">🎮 In my spare time I like to play 🎮</h2>
 <div style="display: inline-block">
     <img align="center" alt="play5" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
-</div>
-<div style="display: inline-block">
     <img align="center" alt="riotgames" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"/>
-</div>
-<div style="display: inline-block">
     <img align="center" alt="cs2" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"/>
-</div>
-<div style="display: inline-block">
     <img align="center" alt="fifa" src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"/>
-</div><br><br><br>
+</div>
+
+<br><br><br>
 
 ### <h2 style="color: #836DFF; font-family: 'Pixelify Sans', sans-serif">Network</h2>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhsferreira021@gmail.com)
